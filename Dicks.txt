@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Flo is a Dick
-=======
-John is a Dick
->>>>>>> 80497c17999e03c633aa1473a89f594649cd1803
+Flo is a dick
