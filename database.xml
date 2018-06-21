@@ -23,7 +23,13 @@
   <Poi Pos="246.109025" Type="automix" Point="cutEnd" />
   <Poi Pos="4.117732" Type="automix" Point="tempoStart" />
   <Poi Pos="234.118005" Type="automix" Point="tempoEnd" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\BeyoncÃ© - Run the World (Girls).mp3" FileSize="9652478">
+  <Tags Author="BeyoncÃ©" Title="Run the World (Girls)" Genre="Pop" Album="4" Composer="Terius Nash, BeyoncÃ© Knowles, Wesley Pentz, David Taylor, Adidja Palmer &amp; Nick van de Wall" Remix="Girls" TrackNumber="11/14" Year="2013" Bpm="0.472441" Key="Cm" Flag="1" />
+  <Infos FirstSeen="1529580177" Cover="1" />
+  <Comment>2</Comment>
+  <Poi Name="Cue 1" Pos="0.798000" Num="1" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                 
  <Song FilePath="C:\Users\Home\Music\DJ database\27_david_zowie_house_every_weekend_loadstar_remix_myzuka.mp3" FileSize="9823317" Flag="16">
   <Tags Flag="2" />
   <Infos FirstSeen="1529446650" Cover="32" />
@@ -322,20 +328,20 @@
   <Scan Version="801" Bpm="0.375516" />
   <Poi Type="beatgrid" />
  </Song>
- <Song FilePath="C:\DJ Drive\Music\BeyoncÃ© - Run the World (Girls).mp3" FileSize="9652478">
-  <Tags Author="BeyoncÃ©" Title="Run the World (Girls)" Genre="Pop" Album="4" Composer="Terius Nash, BeyoncÃ© Knowles, Wesley Pentz, David Taylor, Adidja Palmer &amp; Nick van de Wall" Remix="Girls" TrackNumber="11/14" Year="2013" Bpm="0.472441" Key="Cm" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Beyoncé - Run the World (Girls).mp3" FileSize="9652478">
+  <Tags Author="Beyoncé" Title="Run the World (Girls)" Genre="Pop" Album="4" Composer="Terius Nash, Beyoncé Knowles, Wesley Pentz, David Taylor, Adidja Palmer &amp; Nick van de Wall" Remix="Girls" TrackNumber="11/14" Year="2013" Bpm="0.472441" Key="Cm" Flag="1" />
   <Infos FirstSeen="1529525359" Cover="1" />
   <Comment>2</Comment>
   <Poi Name="Cue 1" Pos="0.798000" Num="1" />
  </Song>                                                                                                                                                                                                                             
- <Song FilePath="C:\DJ Drive\Music\Major Lazer - Cold Water (feat. Justin Bieber &amp; MÃ˜) (Original Mix).mp3" FileSize="7450945">
-  <Tags Author="Major Lazer" Title="Cold Water (feat. Justin Bieber &amp; MÃ˜) (Original Mix)" Genre="Dancehall" Album="Cold Water (feat. Justin Bieber &amp; MÃ˜)" Label="Mad Decent / Because Music" Remix="Original Mix" TrackNumber="01" Grouping="Mad Decent / Because Music" Year="2016" Bpm="0.645161" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Major Lazer - Cold Water (feat. Justin Bieber &amp; MØ) (Original Mix).mp3" FileSize="7450945">
+  <Tags Author="Major Lazer" Title="Cold Water (feat. Justin Bieber &amp; MØ) (Original Mix)" Genre="Dancehall" Album="Cold Water (feat. Justin Bieber &amp; MØ)" Label="Mad Decent / Because Music" Remix="Original Mix" TrackNumber="01" Grouping="Mad Decent / Because Music" Year="2016" Bpm="0.645161" Flag="1" />
   <Infos FirstSeen="1529525359" Cover="1" />
   <Comment>(myzuka.fm)</Comment>
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Mark Ronson feat. Bruno Mars - Uptown Funk.mp3" FileSize="11010281">
   <Tags Author="Mark Ronson feat. Bruno Mars" Title="Uptown Funk" Genre="Other" Album="Now Thats What I Call Party Anthems" TrackNumber="2" Year="2015" Bpm="0.521739" Key="Dm" Flag="1" />
-  <Infos SongLength="271.909637" FirstSeen="1528415084" FirstPlay="1529363150" LastPlay="1529537924" PlayCount="2" Bitrate="320" Cover="1" />
+  <Infos SongLength="271.909637" FirstSeen="1528415084" FirstPlay="1529363150" LastPlay="1529602909" PlayCount="3" Bitrate="320" Cover="1" />
   <Comment>2</Comment>
   <Scan Version="800" Bpm="0.521746" AltBpm="0.391304" Volume="1.054933" Key="C" Flag="2" />
   <Poi Name="Cue 1" Pos="0.098000" Num="1" />
@@ -349,8 +355,8 @@
   <Poi Pos="16.204014" Type="automix" Point="tempoStart" />
   <Poi Pos="248.913492" Type="automix" Point="tempoEnd" />
  </Song>                                                                                               
- <Song FilePath="C:\DJ Drive\Music\Kygo &amp; Selena Gomez - It Ain’t Me (Tiesto’s Aftr hrs Remix).mp3" FileSize="7832542">
-  <Tags Author="Kygo &amp; Selena Gomez" Title="It Ain’t Me (Tiesto’s Aftr hrs Remix)" Genre="Pop, House, Dance" Album="Radio Turkey PRO Top 100 (Best Of Summer) (2017)" Label="www.mp3za.ru" Remixer="www.mp3za.ru" TrackNumber="068" Year="2017" Bpm="0.521739" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Kygo &amp; Selena Gomez - It Ain?t Me (Tiesto?s Aftr hrs Remix).mp3" FileSize="7832542">
+  <Tags Author="Kygo &amp; Selena Gomez" Title="It Ain?t Me (Tiesto?s Aftr hrs Remix)" Genre="Pop, House, Dance" Album="Radio Turkey PRO Top 100 (Best Of Summer) (2017)" Label="www.mp3za.ru" Remixer="www.mp3za.ru" TrackNumber="068" Year="2017" Bpm="0.521739" Flag="1" />
   <Infos SongLength="193.906939" FirstSeen="1529274678" FirstPlay="1529363501" LastPlay="1529363501" PlayCount="1" Bitrate="320" Cover="1" />
   <Comment>9</Comment>
   <Scan Version="800" Bpm="0.521746" AltBpm="0.782608" Volume="1.119289" Key="F" Flag="2" />
@@ -568,8 +574,8 @@
   <Poi Pos="218.376417" Type="automix" Point="realEnd" />
   <Poi Name="Cue 1" Pos="0.009800" Num="1" />
  </Song>
- <Song FilePath="C:\DJ Drive\Music\TiÃ«sto &amp; KSHMR - Secrets (feat. Vassy).mp3" FileSize="10162583">
-  <Tags Author="TiÃ«sto &amp; KSHMR" Title="Secrets (feat. Vassy)" Genre="House" Album="Club Life Vol.4: New York City" TrackNumber="2/18" Year="2015" Bpm="0.465116" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Tiësto &amp; KSHMR - Secrets (feat. Vassy).mp3" FileSize="10162583">
+  <Tags Author="Tiësto &amp; KSHMR" Title="Secrets (feat. Vassy)" Genre="House" Album="Club Life Vol.4: New York City" TrackNumber="2/18" Year="2015" Bpm="0.465116" Flag="1" />
   <Infos FirstSeen="1529525359" Cover="1" />
   <Comment>2</Comment>
   <Poi Name="Cue 1" Pos="16.853000" Num="1" />
@@ -615,9 +621,14 @@
   <Poi Pos="43.695601" Type="automix" Point="cutStart" />
   <Poi Pos="242.656508" Type="automix" Point="cutEnd" />
   <Poi Pos="221.269887" Type="automix" Point="tempoEnd" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
- <Song FilePath="C:\DJ Drive\Music\Pink - What About Us (TiÃ«sto&apos;s AFTR-HRS Remix).mp3" FileSize="9763374">
-  <Tags Author="Pink" Title="What About Us (TiÃ«sto&apos;s AFTR-HRS Remix)" Genre="Pop, House, Dance" Album="Kiss FM: Top 100 2017 - Ð˜Ñ‚Ð¾Ð³Ð¾Ð²Ñ‹Ð¹ (2018)" Remix="TiÃ«sto&apos;s AFTR-HRS Remix" TrackNumber="92" Year="2018" Flag="1" />
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Major Lazer - Cold Water (feat. Justin Bieber &amp; MÃ˜) (Original Mix).mp3" FileSize="7450945">
+  <Tags Author="Major Lazer" Title="Cold Water (feat. Justin Bieber &amp; MÃ˜) (Original Mix)" Genre="Dancehall" Album="Cold Water (feat. Justin Bieber &amp; MÃ˜)" Label="Mad Decent / Because Music" Remix="Original Mix" TrackNumber="01" Grouping="Mad Decent / Because Music" Year="2016" Bpm="0.645161" Flag="1" />
+  <Infos FirstSeen="1529580177" Cover="1" />
+  <Comment>(myzuka.fm)</Comment>
+ </Song>                                                                                                                                                                                                                                                                                                                                                                  
+ <Song FilePath="C:\DJ Drive\Music\Pink - What About Us (Tiësto&apos;s AFTR-HRS Remix).mp3" FileSize="9763374">
+  <Tags Author="Pink" Title="What About Us (Tiësto&apos;s AFTR-HRS Remix)" Genre="Pop, House, Dance" Album="Kiss FM: Top 100 2017 - ???????? (2018)" Remix="Tiësto&apos;s AFTR-HRS Remix" TrackNumber="92" Year="2018" Flag="1" />
   <Infos FirstSeen="1529525359" Cover="1" />
   <Comment>(myzuka.me)</Comment>
  </Song>                                                                                                                              
@@ -654,7 +665,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\The Sugar Hill Gang - Rapper&apos;s Delight.mp3" FileSize="35407549">
   <Tags Flag="1" />
-  <Infos SongLength="885.134127" FirstSeen="1529450514" FirstPlay="1529533298" LastPlay="1529533298" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="885.134127" FirstSeen="1529450514" FirstPlay="1529533298" LastPlay="1529601866" PlayCount="2" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.538231" AltBpm="0.811542" Volume="0.291126" Key="A" Flag="2" />
   <Poi Pos="197.042789" Type="beatgrid" />
   <Poi Pos="0.150930" Type="automix" Point="realStart" />
@@ -754,7 +765,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Luis Fonsi, Daddy Yankee - Despacito  ft. Justin Bieber.mp3" FileSize="9211676">
   <Tags Author="Luis Fonsi, Daddy Yankee" Title="Despacito  ft. Justin Bieber" Genre="Pop" Album="Despacito  ft. Justin Bieber " TrackNumber="1" Year="2017" Bpm="0.674157" Key="Bm" Flag="1" />
-  <Infos SongLength="229.016576" FirstSeen="1528415084" FirstPlay="1529538501" LastPlay="1529538501" PlayCount="1" Bitrate="320" Cover="8225" />
+  <Infos SongLength="229.016576" FirstSeen="1528415084" FirstPlay="1529538501" LastPlay="1529603093" PlayCount="2" Bitrate="320" Cover="8225" />
   <Comment>3</Comment>
   <Scan Version="800" Bpm="0.674150" AltBpm="0.505624" Volume="0.635240" Key="Bm" />
   <Poi Pos="0.076916" Type="automix" Point="realStart" />
@@ -796,7 +807,13 @@
   <Poi Pos="220.379002" Type="automix" Point="tempoEnd" />
   <Poi Name="Cue 1" Pos="22.086000" Num="1" />
   <Poi Name="Cue 2" Pos="88.292916" Num="2" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\TiÃ«sto &amp; KSHMR - Secrets (feat. Vassy).mp3" FileSize="10162583">
+  <Tags Author="TiÃ«sto &amp; KSHMR" Title="Secrets (feat. Vassy)" Genre="House" Album="Club Life Vol.4: New York City" TrackNumber="2/18" Year="2015" Bpm="0.465116" Flag="1" />
+  <Infos FirstSeen="1529580177" Cover="1" />
+  <Comment>2</Comment>
+  <Poi Name="Cue 1" Pos="16.853000" Num="1" />
+ </Song>                                                                        
  <Song FilePath="C:\DJ Drive\Music\Dimension - Whip Slap.mp3" FileSize="9332550" Flag="2">
   <Tags Author="Dimension" Title="Whip Slap" Genre="Drum &amp; Bass" Album="The Beatport Top 100 Downloads February 2015" TrackNumber="70" Year="2015" Flag="1" />
   <Infos SongLength="231.724127" FirstSeen="1529418298" FirstPlay="1529419590" LastPlay="1529449211" PlayCount="2" Bitrate="320" Cover="1" />
@@ -832,7 +849,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Sigala &amp; Digital Farm Animals - Only One.mp3" FileSize="3391987">
   <Tags Author="Sigala &amp; Digital Farm Animals" Title="Only One" Genre="Dance" Album="Only One (Radio Edit) - Single" Year="2016" Bpm="0.480000" Key="G" Flag="1" />
-  <Infos SongLength="207.073719" FirstSeen="1529274678" FirstPlay="1529446281" LastPlay="1529543379" PlayCount="2" Bitrate="128" Cover="1" />
+  <Infos SongLength="207.073719" FirstSeen="1529274678" FirstPlay="1529446281" LastPlay="1529604837" PlayCount="3" Bitrate="128" Cover="1" />
   <Comment>(myzuka.fm)</Comment>
   <Scan Version="800" Bpm="0.480000" AltBpm="0.360000" Volume="1.365575" Key="G" />
   <Poi Pos="53.864174" Type="beatgrid" />
@@ -906,7 +923,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Earth, Wind &amp; Fire - September.mp3" FileSize="8773644">
   <Tags Author="Earth, Wind &amp; Fire" Title="September" Genre="Soul and R&amp;B" Album="Explosion Hits of 70 80 90 - Vol. 1" Composer="Al McKay/Allee Willis/Maurice White" TrackNumber="8" Year="2013" Flag="1" />
-  <Infos SongLength="215.376621" FirstSeen="1529196348" FirstPlay="1529494068" LastPlay="1529533739" PlayCount="3" Bitrate="320" Cover="1" />
+  <Infos SongLength="215.376621" FirstSeen="1529196348" FirstPlay="1529494068" LastPlay="1529602005" PlayCount="4" Bitrate="320" Cover="1" />
   <Scan Version="800" Bpm="0.483871" AltBpm="0.356882" Volume="0.928532" Key="A" Flag="3" />
   <Poi Pos="0.609333" Type="automix" Point="realStart" />
   <Poi Pos="8.637823" Type="automix" Point="fadeStart" />
@@ -918,7 +935,12 @@
   <Poi Pos="213.522667" Type="automix" Point="realEnd" />
   <Poi Name="Cue 1" Pos="0.607221" Num="1" />
   <Poi Name="Cue 2" Pos="203.209735" Num="2" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Pink - What About Us (TiÃ«sto&apos;s AFTR-HRS Remix).mp3" FileSize="9763374">
+  <Tags Author="Pink" Title="What About Us (TiÃ«sto&apos;s AFTR-HRS Remix)" Genre="Pop, House, Dance" Album="Kiss FM: Top 100 2017 - Ð˜Ñ‚Ð¾Ð³Ð¾Ð²Ñ‹Ð¹ (2018)" Remix="TiÃ«sto&apos;s AFTR-HRS Remix" TrackNumber="92" Year="2018" Flag="1" />
+  <Infos FirstSeen="1529580177" Cover="1" />
+  <Comment>(myzuka.me)</Comment>
+ </Song>                                                               
  <Song FilePath="C:\DJ Drive\Music\Wilkinson feat. Karen Harding - Sweet Lies.mp3" FileSize="8360104" Flag="2">
   <Tags Author="Wilkinson feat. Karen Harding" Title="Sweet Lies" Genre="Drum&apos;n&apos;Bass" Album="RAM Drum &amp; Bass Annual 2017" TrackNumber="2/60" Year="2016" Flag="1" />
   <Infos SongLength="206.054943" FirstSeen="1529418298" FirstPlay="1529422594" LastPlay="1529451610" PlayCount="2" Bitrate="320" Cover="1" />
@@ -1262,8 +1284,8 @@
   <Poi Name="Break 1" Pos="149.407347" Type="remix" />
   <Poi Name="End Break 1" Pos="184.075465" Type="remix" />
  </Song>
- <Song FilePath="C:\DJ Drive\Music\Kygo &amp; Selena Gomez - It Ainâ€™t Me (Tiestoâ€™s Aftr hrs Remix).mp3" FileSize="7832542">
-  <Tags Author="Kygo &amp; Selena Gomez" Title="It Ainâ€™t Me (Tiestoâ€™s Aftr hrs Remix)" Genre="Pop, House, Dance" Album="Radio Turkey PRO Top 100 (Best Of Summer) (2017)" Label="www.mp3za.ru" Remix="Tiestoâ€™s Aftr hrs Remix" Remixer="www.mp3za.ru" TrackNumber="068" Year="2017" Bpm="0.521739" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Kygo &amp; Selena Gomez - It Ain’t Me (Tiesto’s Aftr hrs Remix).mp3" FileSize="7832542">
+  <Tags Author="Kygo &amp; Selena Gomez" Title="It Ain’t Me (Tiesto’s Aftr hrs Remix)" Genre="Pop, House, Dance" Album="Radio Turkey PRO Top 100 (Best Of Summer) (2017)" Label="www.mp3za.ru" Remix="Tiesto’s Aftr hrs Remix" Remixer="www.mp3za.ru" TrackNumber="068" Year="2017" Bpm="0.521739" Flag="1" />
   <Infos FirstSeen="1529525359" Cover="1" />
   <Comment>9</Comment>
   <Poi Name="Cue 1" Pos="0.363000" Num="1" />
@@ -1484,7 +1506,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Louisa Johnson 2 Chainz - YES.mp3" FileSize="7013562">
   <Tags Author="Louisa Johnson 2 Chainz" Title="YES" Flag="1" />
-  <Infos SongLength="175.230454" FirstSeen="1529196348" FirstPlay="1529530440" LastPlay="1529530440" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="175.230454" FirstSeen="1529196348" FirstPlay="1529530440" LastPlay="1529601284" PlayCount="2" Bitrate="320" Cover="24578" />
   <Comment>(myzuka)</Comment>
   <Scan Version="800" Bpm="0.545442" AltBpm="0.681814" Volume="1.273511" Key="Fm" />
   <Poi Pos="5.123175" Type="beatgrid" />
@@ -1530,7 +1552,14 @@
   <Poi Pos="21.375624" Type="automix" Point="tempoStart" />
   <Poi Pos="176.145011" Type="automix" Point="tempoEnd" />
   <Poi Name="Cue 1" Pos="0.491303" Num="1" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Kygo &amp; Selena Gomez - It Ainâ€™t Me (Tiestoâ€™s Aftr hrs Remix).mp3" FileSize="7832542">
+  <Tags Author="Kygo &amp; Selena Gomez" Title="It Ainâ€™t Me (Tiestoâ€™s Aftr hrs Remix)" Genre="Pop, House, Dance" Album="Radio Turkey PRO Top 100 (Best Of Summer) (2017)" Label="www.mp3za.ru" Remix="Tiestoâ€™s Aftr hrs Remix" Remixer="www.mp3za.ru" TrackNumber="068" Year="2017" Bpm="0.521739" Flag="1" />
+  <Infos FirstSeen="1529580177" Cover="1" />
+  <Comment>9</Comment>
+  <Poi Name="Cue 1" Pos="0.363000" Num="1" />
+  <Poi Name="Cue 2" Pos="33.749000" Num="2" />
+ </Song>                                                                                             
  <Song FilePath="C:\DJ Drive\Music\The Weeknd - Can&apos;t Feel My Face.mp3" FileSize="9076813">
   <Tags Author="The Weeknd" Title="Can&apos;t Feel My Face" Genre="R&amp;B/Soul" Album="Can#146;t Feel My Face - Single" Composer="Abel Tesfaye, Max Martin, Savan Kotecha, Peter Svensson &amp; Ali Payami" TrackNumber="01/01" Year="2015" Bpm="0.555556" Key="Am" Flag="1" />
   <Infos SongLength="215.668005" FirstSeen="1528415084" Bitrate="320" Cover="1" />
@@ -1755,7 +1784,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Major Lazer feat Justin Bieber and MO - Cold Water.mp3" FileSize="7783669">
   <Tags Author="Major Lazer" Title="Cold Water (feat. Justin Bieber &amp; M#216;) (Original Mix)" Genre="Dancehall" Album="Cold Water (feat. Justin Bieber &amp; M#216;)" Composer="www.MP3DDL.com" Label="Mad Decent / Because Music" TrackNumber="01" Grouping="Mad Decent / Because Music" Year="2016" Bpm="0.645161" Flag="1" />
-  <Infos SongLength="186.383673" FirstSeen="1529197354" FirstPlay="1529284387" LastPlay="1529284387" PlayCount="1" Bitrate="320" Cover="24577" />
+  <Infos SongLength="186.383673" FirstSeen="1529197354" FirstPlay="1529284387" LastPlay="1529604942" PlayCount="2" Bitrate="320" Cover="24577" />
   <Comment>(myzuka.fm)</Comment>
   <Scan Version="800" Bpm="0.645170" AltBpm="0.483878" Volume="1.033235" Key="F#m" />
   <Poi Pos="0.866395" Type="automix" Point="realStart" />
@@ -1771,7 +1800,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Alexander Rybak - Fairytale.mp3" FileSize="8554623">
   <Tags Flag="1" />
-  <Infos SongLength="213.793379" FirstSeen="1529525359" FirstPlay="1529525428" LastPlay="1529525428" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="213.793379" FirstSeen="1529525359" FirstPlay="1529525428" LastPlay="1529600893" PlayCount="2" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.461542" AltBpm="0.346156" Volume="1.349728" Key="Am" />
   <Poi Pos="1.671837" Type="automix" Point="fadeStart" />
   <Poi Pos="2.019546" Type="automix" Point="realStart" />
@@ -1787,7 +1816,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Parov Stelar - Booty Swing.mp3" FileSize="5886735">
   <Tags Author="Parov Stelar" Title="Booty Swing" Genre="House" Album="The Princess" Composer="Parov Stelar" TrackNumber="3/13" Year="2012" Flag="1" />
-  <Infos SongLength="197.506667" FirstSeen="1529197354" FirstPlay="1529362926" LastPlay="1529526671" PlayCount="2" Bitrate="238" Cover="2" />
+  <Infos SongLength="197.506667" FirstSeen="1529197354" FirstPlay="1529362926" LastPlay="1529601002" PlayCount="3" Bitrate="238" Cover="2" />
   <Scan Version="800" Bpm="0.530975" AltBpm="0.398231" Volume="1.073570" Key="Am" />
   <Poi Pos="0.100136" Type="automix" Point="realStart" />
   <Poi Pos="4.179592" Type="automix" Point="fadeStart" />
@@ -1803,7 +1832,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Swingrowers - No Strings Attached.mp3" FileSize="9886740">
   <Tags Flag="1" />
-  <Infos SongLength="247.013878" FirstSeen="1529278890" FirstPlay="1529527078" LastPlay="1529527078" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="247.013878" FirstSeen="1529278890" FirstPlay="1529527078" LastPlay="1529601049" PlayCount="2" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.468742" AltBpm="0.351565" Volume="1.007429" Key="Cm" />
   <Poi Pos="37.790749" Type="beatgrid" />
   <Poi Pos="0.288798" Type="automix" Point="realStart" />
@@ -1849,7 +1878,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Justin Bieber - What Do You Mean!.mp3" FileSize="8326971">
   <Tags Author="Justin Bieber" Title="What Do You Mean?" Genre="Pop" Year="2015" Bpm="0.480000" Flag="1" />
-  <Infos SongLength="206.002698" FirstSeen="1529274678" FirstPlay="1529527399" LastPlay="1529528557" PlayCount="2" Bitrate="320" Cover="1" />
+  <Infos SongLength="206.002698" FirstSeen="1529274678" FirstPlay="1529527399" LastPlay="1529601100" PlayCount="3" Bitrate="320" Cover="1" />
   <Comment>1</Comment>
   <Scan Version="800" Bpm="0.480000" AltBpm="0.360000" Volume="1.218595" Key="Fm" />
   <Poi Pos="15.505759" Type="beatgrid" />
@@ -1874,7 +1903,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\One Direction - Best Song Ever.mp3" FileSize="8166161">
   <Tags Author="One Direction" Title="Best Song Ever" Genre="Pop" Album="Best Song Ever" TrackNumber="1" Year="2013" Flag="1" />
-  <Infos SongLength="202.440000" FirstSeen="1529493774" FirstPlay="1529528413" LastPlay="1529528702" PlayCount="2" Bitrate="320" Cover="1" />
+  <Infos SongLength="202.440000" FirstSeen="1529493774" FirstPlay="1529528413" LastPlay="1529601152" PlayCount="3" Bitrate="320" Cover="1" />
   <Comment>(P) 2013 Simco Limited under exclusive license to Sony Music Entertainment UK Limited - GBHMU1300102</Comment>
   <Scan Version="800" Bpm="0.506327" AltBpm="0.759501" Volume="1.661441" Key="C#" />
   <Poi Pos="10.992426" Type="beatgrid" />
@@ -1892,7 +1921,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Backstreet Boys - Everybody (Backstreet&apos;s Back) (Vinyl Version).mp3" FileSize="9323265">
   <Tags Author="Backstreet Boys" Title="Everybody (Backstreet&apos;s Back) (Vinyl Version)" Genre="Pop" Album="Everybody (Backstreet&apos;s Back)" TrackNumber="01" Year="1997" Bpm="0.555556" Key="A#m" Flag="1" />
-  <Infos SongLength="226.440000" FirstSeen="1529274678" FirstPlay="1529529530" LastPlay="1529529530" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="226.440000" FirstSeen="1529274678" FirstPlay="1529529530" LastPlay="1529601221" PlayCount="2" Bitrate="320" Cover="1" />
   <Comment>3</Comment>
   <Scan Version="800" Bpm="0.555351" AltBpm="0.416508" Volume="0.942782" Key="A#m" />
   <Poi Pos="20.190771" Type="beatgrid" />
@@ -1908,7 +1937,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Eiffel 65 - Blue (Da Ba Dee) (blue Ice Pop.mp3" FileSize="8842322">
   <Tags Author="Eiffel 65" Title="Blue (Da Ba Dee) (blue Ice Pop" Genre="Dance" Album="Blue (Da Ba Dee)" TrackNumber="1" Year="1999" Flag="1" />
-  <Infos SongLength="220.813061" FirstSeen="1529274678" FirstPlay="1529531362" LastPlay="1529531362" PlayCount="1" Bitrate="320" Cover="2" />
+  <Infos SongLength="220.813061" FirstSeen="1529274678" FirstPlay="1529531362" LastPlay="1529601528" PlayCount="2" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.468776" AltBpm="0.351587" Volume="1.207971" Key="Gm" Flag="2" />
   <Poi Pos="142.916835" Type="beatgrid" />
   <Poi Pos="0.201723" Type="automix" Point="realStart" />
@@ -1924,7 +1953,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Queen - Don&apos;t Stop Me Now.mp3" FileSize="8499154">
   <Tags Author="Queen" Title="Don&apos;t Stop Me Now" Genre="Rock" Album="Don&apos;t Stop Me Now" TrackNumber="01/02" Year="1979" Flag="1" />
-  <Infos SongLength="211.613333" FirstSeen="1529196348" FirstPlay="1529531965" LastPlay="1529531965" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="211.613333" FirstSeen="1529196348" FirstPlay="1529531965" LastPlay="1529601631" PlayCount="2" Bitrate="320" Cover="1" />
   <Scan Version="800" Bpm="0.383435" AltBpm="0.576825" Volume="0.823916" Key="Dm" />
   <Poi Pos="0.989751" Type="automix" Point="realStart" />
   <Poi Pos="3.900952" Type="automix" Point="fadeStart" />
@@ -1935,7 +1964,7 @@
  </Song>                                                                                                                                                                                                                                                                                                                                                      
  <Song FilePath="C:\DJ Drive\Music\Flo Rida - Wild Ones (feat. Sia).mp3" FileSize="9502704">
   <Tags Author="Flo Rida" Title="Wild Ones (feat. Sia)" Genre="Dance" Album="Wild Ones" TrackNumber="02/09" Year="2012" Flag="1" />
-  <Infos SongLength="234.080000" FirstSeen="1529274464" FirstPlay="1529531007" LastPlay="1529531007" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="234.080000" FirstSeen="1529274464" FirstPlay="1529531007" LastPlay="1529601382" PlayCount="2" Bitrate="320" Cover="1" />
   <Scan Version="800" Bpm="0.472438" AltBpm="0.354331" Volume="1.357280" Key="Cm" />
   <Poi Pos="30.428911" Type="beatgrid" />
   <Poi Pos="0.197370" Type="automix" Point="realStart" />
@@ -1955,7 +1984,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Shaggy-It Wasn&apos;t Me.mp3" FileSize="9228582">
   <Tags Flag="1" />
-  <Infos SongLength="230.648163" FirstSeen="1529450514" FirstPlay="1529530677" LastPlay="1529532220" PlayCount="2" Bitrate="320" Cover="24578" />
+  <Infos SongLength="230.648163" FirstSeen="1529450514" FirstPlay="1529530677" LastPlay="1529601692" PlayCount="3" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.633311" AltBpm="0.949977" Volume="1.000871" Key="C" />
   <Poi Pos="0.011610" Type="automix" Point="realStart" />
   <Poi Pos="4.179592" Type="automix" Point="fadeStart" />
@@ -1969,7 +1998,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\The Notorious Big - Nasty Girl.mp3" FileSize="11978847">
   <Tags Flag="1" />
-  <Infos SongLength="299.416576" FirstSeen="1529450514" FirstPlay="1529532288" LastPlay="1529532288" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="299.416576" FirstSeen="1529450514" FirstPlay="1529532288" LastPlay="1529601751" PlayCount="2" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.564535" AltBpm="0.423401" Volume="0.784033" Key="G" Flag="2" />
   <Poi Pos="146.651711" Type="beatgrid" />
   <Poi Pos="0.833016" Type="automix" Point="realStart" />
@@ -1983,7 +2012,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Nicki Minaj - Starships.mp3" FileSize="8508500">
   <Tags Author="Nicki Minaj" Title="Starships" Genre="Other" Album="Now Thats What I Call Party Anthems" TrackNumber="62" Year="2015" Bpm="0.472441" Key="Em" Flag="1" />
-  <Infos SongLength="210.651429" FirstSeen="1528415084" FirstPlay="1528937491" LastPlay="1529535191" PlayCount="3" Bitrate="320" Cover="1" />
+  <Infos SongLength="210.651429" FirstSeen="1528415084" FirstPlay="1528937491" LastPlay="1529602120" PlayCount="4" Bitrate="320" Cover="1" />
   <Comment>2</Comment>
   <Scan Version="800" Bpm="0.480000" AltBpm="0.353503" Volume="1.435659" Key="A" Flag="3" />
   <Poi Name="Cue 1" Pos="0.474000" Num="1" />
@@ -2006,7 +2035,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Syn Cole - Got The Feeling.mp3" FileSize="7214936">
   <Tags Author="Syn Cole" Title="Got The Feeling" Flag="1" />
-  <Infos SongLength="180.210068" FirstSeen="1529277431" FirstPlay="1529536526" LastPlay="1529536672" PlayCount="2" Bitrate="320" Cover="2" />
+  <Infos SongLength="180.210068" FirstSeen="1529277431" FirstPlay="1529536526" LastPlay="1529602618" PlayCount="4" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.483878" AltBpm="0.362902" Volume="1.204661" Key="Cm" />
   <Poi Pos="0.131565" Type="beatgrid" />
   <Poi Pos="0.130612" Type="automix" Point="realStart" />
@@ -2018,10 +2047,25 @@
   <Poi Name="End Break 1" Pos="142.753379" Type="remix" />
   <Poi Name="Cue 1" Pos="0.130874" Num="1" />
   <Poi Name="Cue 2" Pos="171.420275" Num="2" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+ <Song FilePath="C:\DJ Drive\Music\The Pointer Sisters- I&apos;m So Excited.mp3" FileSize="7031958">
+  <Tags Author="Pointer Sisters" Title="I&apos;m So Excited" Genre="Rock" Album="Break Out" TrackNumber="3" Year="1983" Flag="1" />
+  <Infos SongLength="292.781474" FirstSeen="1529196348" FirstPlay="1529536908" LastPlay="1529536908" PlayCount="1" Bitrate="192" Cover="24578" />
+  <Comment>Miami Vice Season 1</Comment>
+  <Scan Version="800" Bpm="0.325203" AltBpm="0.984830" Volume="0.519974" Key="Gm" Flag="3" />
+  <Poi Pos="1.021678" Type="automix" Point="fadeStart" />
+  <Poi Pos="1.078277" Type="automix" Point="realStart" />
+  <Poi Pos="1.247347" Type="automix" Point="tempoStart" />
+  <Poi Pos="206.702887" Type="beatgrid" />
+  <Poi Pos="257.126145" Type="automix" Point="tempoEnd" />
+  <Poi Pos="282.633288" Type="automix" Point="fadeEnd" />
+  <Poi Pos="287.169887" Type="automix" Point="realEnd" />
+  <Poi Name="Cue 2" Pos="190.491565" Num="2" />
+  <Poi Name="Cue 1" Pos="7.795744" Num="1" />
+ </Song>                                                          
  <Song FilePath="C:\DJ Drive\Music\Zucchero - Baila Morena.mp3" FileSize="9956969">
   <Tags Author="Zucchero" Title="Baila Morena" Genre="Blues" Album="Shake" TrackNumber="01" Year="2001" Flag="1" />
-  <Infos SongLength="248.869637" FirstSeen="1529196348" FirstPlay="1529535515" LastPlay="1529535515" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="248.869637" FirstSeen="1529196348" FirstPlay="1529535515" LastPlay="1529602218" PlayCount="2" Bitrate="320" Cover="24578" />
   <Comment>Chernoff&apos;s collection</Comment>
   <Scan Version="800" Bpm="0.500000" AltBpm="0.375544" Volume="1.243800" Key="Gm" Flag="3" />
   <Poi Pos="5.051953" Type="beatgrid" />
@@ -2036,7 +2080,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Sean Paul - Temperature.mp3" FileSize="7199335">
   <Tags Author="Sean Paul" Title="Temperature" Genre="Hip-Hop" Album="Sean Paul - The Singles Collection" TrackNumber="14" Year="2013" Bpm="0.480000" Key="Gm" Flag="1" />
-  <Infos SongLength="216.746667" FirstSeen="1529274678" FirstPlay="1529536408" LastPlay="1529536408" PlayCount="1" Bitrate="259" Cover="1" />
+  <Infos SongLength="216.746667" FirstSeen="1529274678" FirstPlay="1529536408" LastPlay="1529602568" PlayCount="2" Bitrate="259" Cover="1" />
   <Comment>1</Comment>
   <Scan Version="800" Bpm="0.480000" AltBpm="0.720000" Volume="1.123830" Key="A#" />
   <Poi Pos="6.893469" Type="beatgrid" />
@@ -2049,24 +2093,22 @@
   <Poi Name="Cue 1" Pos="0.168171" Num="1" />
   <Poi Name="Cue 2" Pos="154.245451" Num="2" />
  </Song>
- <Song FilePath="C:\DJ Drive\Music\The Pointer Sisters- I&apos;m So Excited.mp3" FileSize="7031958">
-  <Tags Author="Pointer Sisters" Title="I&apos;m So Excited" Genre="Rock" Album="Break Out" TrackNumber="3" Year="1983" Flag="1" />
-  <Infos SongLength="292.781474" FirstSeen="1529196348" FirstPlay="1529536908" LastPlay="1529536908" PlayCount="1" Bitrate="192" Cover="24578" />
-  <Comment>Miami Vice Season 1</Comment>
-  <Scan Version="800" Bpm="0.325203" AltBpm="0.984830" Volume="0.519974" Key="Gm" Flag="3" />
-  <Poi Pos="1.021678" Type="automix" Point="fadeStart" />
-  <Poi Pos="1.078277" Type="automix" Point="realStart" />
-  <Poi Pos="1.247347" Type="automix" Point="tempoStart" />
-  <Poi Pos="206.702887" Type="beatgrid" />
-  <Poi Pos="257.126145" Type="automix" Point="tempoEnd" />
-  <Poi Pos="282.633288" Type="automix" Point="fadeEnd" />
-  <Poi Pos="287.169887" Type="automix" Point="realEnd" />
-  <Poi Name="Cue 1" Pos="8.440394" Num="1" />
-  <Poi Name="Cue 2" Pos="190.491565" Num="2" />
- </Song>
+ <Song FilePath="C:\DJ Drive\Music\Miley Cyrus-Party In The USA[GrabMp3i.online].mp3" FileSize="8044806">
+  <Tags Remix="GrabMp3i.online" Flag="1" />
+  <Infos SongLength="201.061587" FirstSeen="1529602263" FirstPlay="1529604343" LastPlay="1529604343" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Scan Version="800" Bpm="0.624989" AltBpm="0.937506" Volume="0.945861" Key="Ebm" />
+  <Poi Pos="8.632834" Type="beatgrid" />
+  <Poi Pos="0.496327" Type="automix" Point="realStart" />
+  <Poi Pos="200.528980" Type="automix" Point="realEnd" />
+  <Poi Pos="2.043356" Type="automix" Point="fadeStart" />
+  <Poi Pos="200.434649" Type="automix" Point="fadeEnd" />
+  <Poi Pos="9.883719" Type="automix" Point="cutStart" />
+  <Poi Pos="199.877370" Type="automix" Point="cutEnd" />
+  <Poi Name="Cue 1" Pos="0.496327" Num="1" />
+ </Song>                                                                                                                                                                                            
  <Song FilePath="C:\DJ Drive\Music\Etienne de Crecy - Smile.mp3" FileSize="8103099">
   <Tags Author="Etienne de Crecy" Title="Smile" Flag="1" />
-  <Infos SongLength="202.408345" FirstSeen="1529196348" FirstPlay="1529445606" LastPlay="1529537484" PlayCount="2" Bitrate="320" Cover="24578" />
+  <Infos SongLength="202.408345" FirstSeen="1529196348" FirstPlay="1529445606" LastPlay="1529602820" PlayCount="3" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.500000" AltBpm="0.369558" Volume="0.805803" Key="F" Flag="2" />
   <Poi Pos="0.162540" Type="automix" Point="realStart" />
   <Poi Pos="1.300317" Type="automix" Point="fadeStart" />
@@ -2082,7 +2124,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Ed Sheeran - Shape Of You.mp3" FileSize="10533753">
   <Tags Author="Ed Sheeran" Title="Shape Of You" Flag="1" />
-  <Infos SongLength="263.267846" FirstSeen="1529277431" FirstPlay="1529538844" LastPlay="1529538844" PlayCount="1" Bitrate="320" Cover="2" />
+  <Infos SongLength="263.267846" FirstSeen="1529277431" FirstPlay="1529538844" LastPlay="1529603139" PlayCount="2" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.625011" AltBpm="0.468730" Volume="1.369157" Key="F#m" Flag="2" />
   <Poi Pos="6.149697" Type="beatgrid" />
   <Poi Pos="0.650159" Type="automix" Point="realStart" />
@@ -2098,7 +2140,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Britney Spears - Oops I did It Again.mp3" FileSize="8756537">
   <Tags Author="Britney Spears" Title="Oops!...I Did It Again" Genre="Pop" Album="Oops!...I Did It Again (China edition)" TrackNumber="01" Year="2000" Flag="1" />
-  <Infos SongLength="211.400000" FirstSeen="1529493773" FirstPlay="1529539282" LastPlay="1529539282" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="211.400000" FirstSeen="1529493773" FirstPlay="1529539282" LastPlay="1529603231" PlayCount="2" Bitrate="320" Cover="1" />
   <Comment>(myzuka.ru)</Comment>
   <Scan Version="800" Bpm="0.631202" AltBpm="0.473401" Volume="1.100420" Key="C#m" />
   <Poi Pos="0.764218" Type="beatgrid" />
@@ -2114,7 +2156,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Aqua - Barbie Girl (Radio Edit).mp3" FileSize="8017620">
   <Tags Author="Aqua" Title="Barbie Girl (Radio Edit)" Genre="Eurodance" Album="Barbie Girl" TrackNumber="01/04" Year="1997" Bpm="0.461538" Flag="1" />
-  <Infos SongLength="198.466667" FirstSeen="1529274678" FirstPlay="1529539511" LastPlay="1529539511" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="198.466667" FirstSeen="1529274678" FirstPlay="1529539511" LastPlay="1529603274" PlayCount="2" Bitrate="320" Cover="1" />
   <Comment>3</Comment>
   <Scan Version="800" Bpm="0.461553" AltBpm="0.346168" Volume="0.953766" Key="B" />
   <Poi Name="Cue 1" Pos="3.319000" Num="1" />
@@ -2130,7 +2172,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Sigala - Came Here For Love.mp3" FileSize="8091605">
   <Tags Author="Sigala" Title="Came Here For Love" Flag="1" />
-  <Infos SongLength="202.129705" FirstSeen="1529277431" FirstPlay="1529540197" LastPlay="1529540197" PlayCount="1" Bitrate="320" Cover="2" />
+  <Infos SongLength="202.129705" FirstSeen="1529277431" FirstPlay="1529540197" LastPlay="1529603475" PlayCount="2" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.480000" AltBpm="0.720000" Volume="1.002676" Key="Ebm" />
   <Poi Pos="0.331088" Type="beatgrid" />
   <Poi Pos="0.322177" Type="automix" Point="realStart" />
@@ -2144,7 +2186,22 @@
   <Poi Name="End Break 1" Pos="169.293061" Type="remix" />
   <Poi Name="Cue 1" Pos="11.852730" Num="1" />
   <Poi Name="Cue 2" Pos="195.685392" Num="2" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Taylor Swift - We are Never Ever Getting Back Together.mp3" FileSize="7732959">
+  <Tags Author="Taylor Swift" Title="We Are Never Ever Getting Back Together" Genre="Country &amp; Folk" Album="Red" TrackNumber="8/16" Year="2012" Flag="1" />
+  <Infos SongLength="193.186667" FirstSeen="1529196348" FirstPlay="1529604670" LastPlay="1529604670" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Scan Version="800" Bpm="0.697687" AltBpm="0.523265" Volume="1.157739" Key="G" />
+  <Poi Pos="5.856032" Type="beatgrid" />
+  <Poi Pos="0.274286" Type="automix" Point="realStart" />
+  <Poi Pos="190.820136" Type="automix" Point="realEnd" />
+  <Poi Pos="5.851429" Type="automix" Point="fadeStart" />
+  <Poi Pos="190.403628" Type="automix" Point="fadeEnd" />
+  <Poi Pos="5.847800" Type="automix" Point="cutStart" />
+  <Poi Pos="188.986485" Type="automix" Point="cutEnd" />
+  <Poi Pos="6.553741" Type="automix" Point="tempoStart" />
+  <Poi Pos="167.019909" Type="automix" Point="tempoEnd" />
+  <Poi Name="Cue 1" Pos="0.274286" Num="1" />
+ </Song>                                             
  <Song FilePath="C:\DJ Drive\Music\Black Box - Ride On Time.mp3" FileSize="8881676">
   <Tags Author="Black Box" Title="Ride On Time" Genre="Eurodance" Album="Dreamland" TrackNumber="6" Year="1990" Flag="1" />
   <Infos SongLength="277.333333" FirstSeen="1529197354" Bitrate="256" Cover="2" />
@@ -2160,7 +2217,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Jacob Plant - About You.mp3" FileSize="7521091">
   <Tags Author="Jacob Plant" Title="About You" Flag="1" />
-  <Infos SongLength="187.872653" FirstSeen="1529277431" FirstPlay="1529539812" LastPlay="1529539812" PlayCount="1" Bitrate="320" Cover="2" />
+  <Infos SongLength="187.872653" FirstSeen="1529277431" FirstPlay="1529539812" LastPlay="1529603333" PlayCount="2" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.487800" AltBpm="0.365850" Volume="1.372082" Key="Ebm" />
   <Poi Pos="16.961315" Type="beatgrid" />
   <Poi Pos="5.135964" Type="automix" Point="realStart" />
@@ -2183,7 +2240,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Bakermat - Baby.mp3" FileSize="6344536">
   <Tags Author="Bakermat" Title="Baby" Flag="1" />
-  <Infos SongLength="158.452971" FirstSeen="1529277430" FirstPlay="1529540927" LastPlay="1529541016" PlayCount="2" Bitrate="320" Cover="2" />
+  <Infos SongLength="158.452971" FirstSeen="1529277430" FirstPlay="1529540927" LastPlay="1529603534" PlayCount="3" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.476190" AltBpm="0.714286" Volume="0.618576" Key="B" />
   <Poi Pos="15.460680" Type="beatgrid" />
   <Poi Pos="0.117551" Type="automix" Point="realStart" />
@@ -2199,7 +2256,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Avicii - Levels (Radio Edit).mp3" FileSize="8065362">
   <Tags Author="Avicii" Title="Levels (Radio Edit)" Genre="House" Album="Levels (L7L0029)" Label="LE7ELS" TrackNumber="01" Year="2011" Flag="1" />
-  <Infos SongLength="199.967347" FirstSeen="1529197354" FirstPlay="1529541414" LastPlay="1529541414" PlayCount="1" Bitrate="320" Cover="24577" />
+  <Infos SongLength="199.967347" FirstSeen="1529197354" FirstPlay="1529541414" LastPlay="1529603606" PlayCount="2" Bitrate="320" Cover="24577" />
   <Scan Version="800" Bpm="0.476190" AltBpm="0.714286" Volume="1.163977" Key="E" />
   <Poi Pos="22.881407" Type="beatgrid" />
   <Poi Pos="0.020317" Type="automix" Point="realStart" />
@@ -2216,7 +2273,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Bastille - Pompeii.mp3" FileSize="8695503">
   <Tags Author="Bastille" Title="Pompeii" Genre="Pop" Album="The Official Uk Top 40 Singles Chart 05-05-2013" TrackNumber="15" Year="2013" Flag="1" />
-  <Infos SongLength="214.180862" FirstSeen="1529197354" FirstPlay="1529541557" LastPlay="1529541557" PlayCount="1" Bitrate="320" Cover="24577" />
+  <Infos SongLength="214.180862" FirstSeen="1529197354" FirstPlay="1529541557" LastPlay="1529603658" PlayCount="2" Bitrate="320" Cover="24577" />
   <Comment>www.oldskoolscouse.co.uk</Comment>
   <Scan Version="800" Bpm="0.470590" AltBpm="0.705873" Volume="1.161683" Key="A" />
   <Poi Pos="32.611496" Type="beatgrid" />
@@ -2247,7 +2304,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\M83 - Midnight City.mp3" FileSize="9994454">
   <Tags Author="M83" Title="Midnight City" Genre="Alternative" Album="Hurry Up, We&apos;re Dreaming (Disc One)" TrackNumber="02" Year="2011" Flag="1" />
-  <Infos SongLength="243.960000" FirstSeen="1529197354" FirstPlay="1529541686" LastPlay="1529541686" PlayCount="1" Bitrate="320" Cover="24577" />
+  <Infos SongLength="243.960000" FirstSeen="1529197354" FirstPlay="1529541686" LastPlay="1529603694" PlayCount="2" Bitrate="320" Cover="24577" />
   <Scan Version="800" Bpm="0.571429" AltBpm="0.714308" Volume="1.206401" Key="A" />
   <Poi Pos="16.074286" Type="beatgrid" />
   <Poi Pos="0.060952" Type="automix" Point="realStart" />
@@ -2262,7 +2319,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Sigala - Give Me Your Love.mp3" FileSize="8376862">
   <Tags Author="Sigala" Title="Give Me Your Love" Flag="1" />
-  <Infos SongLength="209.258231" FirstSeen="1529277431" FirstPlay="1529541944" LastPlay="1529541944" PlayCount="1" Bitrate="320" Cover="2" />
+  <Infos SongLength="209.258231" FirstSeen="1529277431" FirstPlay="1529541944" LastPlay="1529603735" PlayCount="2" Bitrate="320" Cover="2" />
   <Scan Version="800" Bpm="0.480000" AltBpm="0.359989" Volume="1.499300" Key="A" />
   <Poi Pos="1.980771" Type="beatgrid" />
   <Poi Pos="0.660317" Type="automix" Point="realStart" />
@@ -2286,7 +2343,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Duke Dumont - Inhale.mp3" FileSize="7636157">
   <Tags Author="Duke Dumont Feat  Ebenezer" Title="Inhale" Genre="Dance" Album="Inhale WEB" TrackNumber="1/1" Year="2018" Flag="1" />
-  <Infos SongLength="190.730408" FirstSeen="1529177318" FirstPlay="1529185102" LastPlay="1529542188" PlayCount="2" Bitrate="320" Cover="8226" />
+  <Infos SongLength="190.730408" FirstSeen="1529177318" FirstPlay="1529185102" LastPlay="1529604290" PlayCount="4" Bitrate="320" Cover="8226" />
   <Comment>(myzuka)</Comment>
   <Scan Version="800" Bpm="0.508481" AltBpm="0.762721" Volume="1.370692" Key="B" />
   <Poi Pos="0.043107" Type="beatgrid" />
@@ -2305,7 +2362,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Florence and The Machin (Calvin Harris mix) - Spectrum.mp3" FileSize="7174210">
   <Tags Author="Florence + The Machine" Title="Spectrum (Say My Name) (Calvin Harris Remix Radio Edit)" Genre="Club" Album="100% Dancefloor" Label="Wagram Music" TrackNumber="3/20" Year="2012" Flag="1" />
-  <Infos SongLength="217.253333" FirstSeen="1529196348" FirstPlay="1529542487" LastPlay="1529542487" PlayCount="1" Bitrate="263" Cover="1" />
+  <Infos SongLength="217.253333" FirstSeen="1529196348" FirstPlay="1529542487" LastPlay="1529604398" PlayCount="2" Bitrate="263" Cover="1" />
   <Comment>ZzZz TEAM</Comment>
   <Scan Version="800" Bpm="0.476190" AltBpm="0.357143" Volume="1.260594" Key="Bm" />
   <Poi Pos="1.449796" Type="automix" Point="realStart" />
@@ -2326,7 +2383,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Jax Jones - Breathe.mp3" FileSize="8309195">
   <Tags Author="Jax Jones" Title="Breathe" Flag="1" />
-  <Infos SongLength="207.629932" FirstSeen="1529177318" FirstPlay="1529177603" LastPlay="1529542628" PlayCount="2" Bitrate="320" Cover="24578" />
+  <Infos SongLength="207.629932" FirstSeen="1529177318" FirstPlay="1529177603" LastPlay="1529604456" PlayCount="3" Bitrate="320" Cover="24578" />
   <Comment>(myzuka.me)</Comment>
   <Scan Version="800" Bpm="0.476190" AltBpm="0.357143" Volume="1.215193" Key="Bm" />
   <Poi Pos="0.021769" Type="automix" Point="realStart" />
@@ -2360,7 +2417,84 @@
   <Poi Pos="168.232744" Type="automix" Point="tempoEnd" />
   <Poi Name="Cue 1" Pos="0.232031" Num="1" />
   <Poi Name="Cue 2" Pos="183.722006" Num="2" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Flo Rida - Good Feeling.mp3" FileSize="10064841">
+  <Tags Author="Flo Rida" Title="Good Feeling" Genre="Dance" Album="Wild Ones" TrackNumber="04/09" Year="2012" Flag="1" />
+  <Infos SongLength="248.133333" FirstSeen="1529274464" FirstPlay="1529603787" LastPlay="1529603787" PlayCount="1" Bitrate="320" Cover="1" />
+  <Scan Version="800" Bpm="0.468753" AltBpm="0.351565" Volume="1.331581" Key="C#m" />
+  <Poi Pos="7.670839" Type="beatgrid" />
+  <Poi Pos="0.171247" Type="automix" Point="realStart" />
+  <Poi Pos="245.373968" Type="automix" Point="realEnd" />
+  <Poi Pos="0.185760" Type="automix" Point="fadeStart" />
+  <Poi Pos="244.366803" Type="automix" Point="fadeEnd" />
+  <Poi Pos="7.648073" Type="automix" Point="cutStart" />
+  <Poi Pos="243.424218" Type="automix" Point="cutEnd" />
+  <Poi Pos="37.670522" Type="automix" Point="tempoStart" />
+  <Poi Pos="227.983084" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="67.205079" Type="remix" />
+  <Poi Name="End Break 1" Pos="101.427664" Type="remix" />
+  <Poi Name="Break 2" Pos="132.829751" Type="remix" />
+  <Poi Name="End Break 2" Pos="153.916372" Type="remix" />
+  <Poi Name="Cue 1" Pos="0.171247" Num="1" />
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\OMI - Cheerleader.mp3" FileSize="7281814">
+  <Tags Author="OMI" Title="Cheerleader (Felix Jaehn Remix Radio Edit)" Genre="House" Album="Cheerleader" TrackNumber="01" Year="2014" Flag="1" />
+  <Infos SongLength="180.062041" FirstSeen="1529196348" FirstPlay="1529604114" LastPlay="1529604114" PlayCount="1" Bitrate="320" Cover="1" />
+  <Comment>(myzuka.me)</Comment>
+  <Scan Version="800" Bpm="0.508481" AltBpm="0.381372" Volume="1.161910" Key="E" />
+  <Poi Pos="16.303787" Type="beatgrid" />
+  <Poi Pos="0.037732" Type="automix" Point="realStart" />
+  <Poi Pos="179.155011" Type="automix" Point="realEnd" />
+  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
+  <Poi Pos="178.143492" Type="automix" Point="fadeEnd" />
+  <Poi Pos="38.632200" Type="automix" Point="cutStart" />
+  <Poi Pos="174.442086" Type="automix" Point="cutEnd" />
+  <Poi Pos="40.717370" Type="automix" Point="tempoStart" />
+  <Poi Pos="158.686395" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="113.423673" Type="remix" />
+  <Poi Name="Cue 2" Pos="113.427762" Num="2" />
+  <Poi Name="Cue 1" Pos="32.569168" Num="1" />
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Bakermat - Living.mp3" FileSize="7879491">
+  <Tags Author="Bakermat" Title="Living" Flag="1" />
+  <Infos SongLength="196.812336" FirstSeen="1529277430" FirstPlay="1529604728" LastPlay="1529604728" PlayCount="1" Bitrate="320" Cover="2" />
+  <Scan Version="800" Bpm="0.491803" AltBpm="0.368855" Volume="1.165970" Key="Em" />
+  <Poi Pos="0.273469" Type="beatgrid" />
+  <Poi Pos="0.264127" Type="automix" Point="realStart" />
+  <Poi Pos="187.894422" Type="automix" Point="realEnd" />
+  <Poi Pos="0.278639" Type="automix" Point="fadeStart" />
+  <Poi Pos="185.295238" Type="automix" Point="fadeEnd" />
+  <Poi Pos="28.304399" Type="automix" Point="cutStart" />
+  <Poi Pos="176.820680" Type="automix" Point="cutEnd" />
+  <Poi Pos="28.305578" Type="automix" Point="tempoStart" />
+  <Poi Pos="161.588662" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="105.023855" Type="remix" />
+  <Poi Name="End Break 1" Pos="121.497687" Type="remix" />
+  <Poi Name="Cue 2" Pos="181.254525" Num="2" />
+  <Poi Name="Cue 1" Pos="18.449077" Num="1" />
+ </Song>
+ <Song FilePath="C:\DJ Drive\Music\Kungs &amp; Cookin&apos; on 3 Burners - This Girl.mp3" FileSize="8233231">
+  <Tags Author="Kungs &amp; Cookin&apos; on 3 Burners" Title="This Girl" Genre="??????" Album="NOW That&apos;s What I Call Party Hits" Composer="www.MP3DDL.com" TrackNumber="17" Year="2016" Bpm="0.491803" Key="Cm" Flag="1" />
+  <Infos SongLength="197.519637" FirstSeen="1529274678" FirstPlay="1529605142" LastPlay="1529605142" PlayCount="1" Bitrate="320" Cover="1" />
+  <Comment>2</Comment>
+  <Scan Version="800" Bpm="0.491803" AltBpm="0.368855" Volume="0.968134" Key="Eb" />
+  <Poi Name="Cue 1" Pos="0.787000" Num="1" />
+  <Poi Pos="6.652109" Type="beatgrid" />
+  <Poi Pos="0.745333" Type="automix" Point="realStart" />
+  <Poi Pos="194.161333" Type="automix" Point="realEnd" />
+  <Poi Pos="0.743039" Type="automix" Point="fadeStart" />
+  <Poi Pos="193.282902" Type="automix" Point="fadeEnd" />
+  <Poi Pos="8.615329" Type="automix" Point="cutStart" />
+  <Poi Pos="189.106939" Type="automix" Point="cutEnd" />
+  <Poi Pos="63.703900" Type="automix" Point="tempoStart" />
+  <Poi Pos="173.864376" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="35.671655" Type="remix" />
+  <Poi Name="End Break 1" Pos="55.833107" Type="remix" />
+  <Poi Name="Break 2" Pos="85.828209" Type="remix" />
+  <Poi Name="End Break 2" Pos="110.920272" Type="remix" />
+  <Poi Name="Break 3" Pos="122.229116" Type="remix" />
+  <Poi Name="End Break 3" Pos="154.187029" Type="remix" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
  <Song FilePath="C:\DJ Drive\Music\Eminem - The Real Slim Shady.mp3" FileSize="11389432">
   <Tags Author="Eminem" Title="The Real Slim Shady" Genre="Rap" Album="The Marshall Mathers LP (Limited Edition)" Composer="Tommy Coster, Jr./Andre R. Young/Mike Elizondo" TrackNumber="8" Flag="1" />
   <Infos SongLength="284.630204" FirstSeen="1529197354" Bitrate="320" Cover="2" />
@@ -2377,7 +2511,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Mr Belt and Wezol - Boogie Wonderland.mp3" FileSize="6888582">
   <Tags Author="Mr. Belt  Wezol" Title="Boogie Wonderland - vk.com/xpmusic" Genre="???" Album="vk.com/xpmusic" Year="2017" Flag="1" />
-  <Infos SongLength="167.732245" FirstSeen="1529177318" FirstPlay="1529542970" LastPlay="1529542970" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="167.732245" FirstSeen="1529177318" FirstPlay="1529542970" LastPlay="1529604574" PlayCount="2" Bitrate="320" Cover="1" />
   <Comment>(myzuka.fm)</Comment>
   <Scan Version="800" Bpm="0.482608" AltBpm="0.717438" Volume="1.275032" Key="Am" />
   <Poi Pos="1.487800" Type="beatgrid" />
@@ -2412,24 +2546,7 @@
   <Poi Pos="36.643265" Type="automix" Point="cutStart" />
   <Poi Pos="219.229751" Type="automix" Point="cutEnd" />
   <Poi Name="Cue 1" Pos="0.170691" Num="1" />
- </Song>
- <Song FilePath="C:\DJ Drive\Music\Bakermat - Living.mp3" FileSize="7879491">
-  <Tags Author="Bakermat" Title="Living" Flag="1" />
-  <Infos SongLength="196.812336" FirstSeen="1529277430" Bitrate="320" Cover="2" />
-  <Scan Version="800" Bpm="0.491803" AltBpm="0.368855" Volume="1.165970" Key="Em" />
-  <Poi Pos="0.273469" Type="beatgrid" />
-  <Poi Pos="0.264127" Type="automix" Point="realStart" />
-  <Poi Pos="187.894422" Type="automix" Point="realEnd" />
-  <Poi Pos="0.278639" Type="automix" Point="fadeStart" />
-  <Poi Pos="185.295238" Type="automix" Point="fadeEnd" />
-  <Poi Pos="28.304399" Type="automix" Point="cutStart" />
-  <Poi Pos="176.820680" Type="automix" Point="cutEnd" />
-  <Poi Pos="28.305578" Type="automix" Point="tempoStart" />
-  <Poi Pos="161.588662" Type="automix" Point="tempoEnd" />
-  <Poi Name="Break 1" Pos="105.023855" Type="remix" />
-  <Poi Name="End Break 1" Pos="121.497687" Type="remix" />
-  <Poi Name="Cue 2" Pos="181.254525" Num="2" />
- </Song>
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
  <Song FilePath="C:\DJ Drive\Music\Swedish House Mafia ft John Martin - Don&apos;t You Worry Child.mp3" FileSize="8815918">
   <Tags Author="Swedish House Mafia ft John Martin" Title="Don&apos;t You Worry Child" Genre="Other" Album="Now That&apos;s What I Call No.1 Hits - CD3" Composer="www.MP3DDL.com" TrackNumber="7/21" Year="2016" Bpm="0.465116" Flag="1" />
   <Infos SongLength="212.140408" FirstSeen="1529274678" FirstPlay="1529543478" LastPlay="1529543478" PlayCount="1" Bitrate="320" Cover="1" />
@@ -2454,7 +2571,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Toto - Africa.mp3" FileSize="11834430">
   <Tags Author="Toto" Title="Africa" Genre=" " Album="Grand Theft Auto - Vice City CD 3 (Emotion 98.3)" TrackNumber="02" Flag="1" />
-  <Infos SongLength="295.758367" FirstSeen="1529197354" FirstPlay="1529543711" LastPlay="1529543711" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="295.758367" FirstSeen="1529197354" FirstPlay="1529543711" LastPlay="1529604908" PlayCount="2" Bitrate="320" Cover="24578" />
   <Scan Version="800" Bpm="0.647211" AltBpm="0.485363" Volume="1.024165" Key="C#m" />
   <Poi Pos="0.596984" Type="beatgrid" />
   <Poi Pos="0.021769" Type="automix" Point="realStart" />
@@ -2470,7 +2587,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Toploader - Dancing In The Moonlight.mp3" FileSize="9153841">
   <Tags Author="Toploader" Title="Dancing In The Moonlight" Genre="Pop" Album="Top Of The Pops 2000" TrackNumber="2" Year="2007" Bpm="0.500000" Key="A#" Flag="1" />
-  <Infos SongLength="228.693333" FirstSeen="1528415084" FirstPlay="1529544124" LastPlay="1529544124" PlayCount="1" Bitrate="320" Cover="24578" />
+  <Infos SongLength="228.693333" FirstSeen="1528415084" FirstPlay="1529544124" LastPlay="1529605048" PlayCount="2" Bitrate="320" Cover="24578" />
   <Comment>4</Comment>
   <Scan Version="800" Bpm="0.502200" AltBpm="0.627755" Volume="1.556264" Key="A#" />
   <Poi Pos="13.766712" Type="beatgrid" />
@@ -2498,7 +2615,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Chromeo - Jealous I ain&apos;t with it.mp3" FileSize="9251552">
   <Tags Author="Chromeo" Title="Jealous (I Ain&apos;t With It)" Genre="Electronic" Album="Jealous (I Ain&apos;t With It)" Composer="vk.com/xclusives_zone" Label="vk.com/xclusives_zone" TrackNumber="1/1" Year="2014" Flag="1" />
-  <Infos SongLength="228.075102" FirstSeen="1529196348" FirstPlay="1529544438" LastPlay="1529544438" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="228.075102" FirstSeen="1529196348" FirstPlay="1529544438" LastPlay="1529605225" PlayCount="2" Bitrate="320" Cover="1" />
   <Scan Version="800" Bpm="0.468753" AltBpm="0.351565" Volume="1.249414" Key="Eb" />
   <Poi Pos="0.583673" Type="beatgrid" />
   <Poi Pos="1.024580" Type="automix" Point="realStart" />
@@ -2547,7 +2664,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Hardwell - Creatures of The Night.mp3" FileSize="7264423">
   <Tags Author="Hardwell" Title="Creatures Of The Night" Genre="Pop, Dance, Rap" Album="NRJ Pure Hits 2017" Label="Universal Music Division Barclay" TrackNumber="6" Year="2017" Bpm="0.402685" Flag="1" />
-  <Infos SongLength="180.742290" FirstSeen="1529196348" FirstPlay="1529544754" LastPlay="1529544754" PlayCount="1" Bitrate="320" Cover="1" />
+  <Infos SongLength="180.742290" FirstSeen="1529196348" FirstPlay="1529544754" LastPlay="1529605292" PlayCount="3" Bitrate="320" Cover="1" />
   <Comment>(myzuka.me)</Comment>
   <Scan Version="800" Bpm="0.400011" AltBpm="0.600023" Volume="1.246317" Key="F" />
   <Poi Pos="1.207755" Type="beatgrid" />
@@ -2587,7 +2704,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\T-Spoon - Sex On The Beach (Ibiza Radio Mix).mp3" FileSize="9196022">
   <Tags Author="T-Spoon" Title="Sex On The Beach (Ibiza Radio Mix)" Genre="Eurodance" Album="?????????? ????????? 90-? Vol.1" Year="2014" Flag="1" />
-  <Infos SongLength="225.541224" FirstSeen="1529197354" FirstPlay="1529287632" LastPlay="1529544960" PlayCount="2" Bitrate="320" Cover="24577" />
+  <Infos SongLength="225.541224" FirstSeen="1529197354" FirstPlay="1529287632" LastPlay="1529605372" PlayCount="3" Bitrate="320" Cover="24577" />
   <Comment>(myzuka.ru)</Comment>
   <Scan Version="800" Bpm="0.600023" AltBpm="0.450023" Volume="0.874105" Key="F" />
   <Poi Pos="9.857030" Type="beatgrid" />
@@ -2604,7 +2721,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Sam And The Womp - Bom Bom.mp3" FileSize="3484418">
   <Tags Author="Sam And The Womp" Title="Bom Bom" Genre="?????????????.??" Flag="1" />
-  <Infos SongLength="174.106122" FirstSeen="1529196348" FirstPlay="1529446248" LastPlay="1529545116" PlayCount="2" Bitrate="160" Cover="24578" />
+  <Infos SongLength="174.106122" FirstSeen="1529196348" FirstPlay="1529446248" LastPlay="1529605419" PlayCount="3" Bitrate="160" Cover="24578" />
   <Comment>(myzuka.ru)</Comment>
   <Scan Version="800" Bpm="0.480000" AltBpm="0.360000" Volume="1.270765" Key="Am" />
   <Poi Pos="3.876100" Type="beatgrid" />
@@ -3436,23 +3553,7 @@
   <Poi Pos="21.250952" Type="automix" Point="tempoStart" />
   <Poi Name="Break 1" Pos="217.057959" Type="remix" />
   <Poi Name="End Break 1" Pos="235.818957" Type="remix" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
- <Song FilePath="C:\DJ Drive\Music\OMI - Cheerleader.mp3" FileSize="7281814">
-  <Tags Author="OMI" Title="Cheerleader (Felix Jaehn Remix Radio Edit)" Genre="House" Album="Cheerleader" TrackNumber="01" Year="2014" Flag="1" />
-  <Infos SongLength="180.062041" FirstSeen="1529196348" Bitrate="320" Cover="1" />
-  <Comment>(myzuka.me)</Comment>
-  <Scan Version="800" Bpm="0.508481" AltBpm="0.381372" Volume="1.161910" Key="E" />
-  <Poi Pos="16.303787" Type="beatgrid" />
-  <Poi Pos="0.037732" Type="automix" Point="realStart" />
-  <Poi Pos="179.155011" Type="automix" Point="realEnd" />
-  <Poi Pos="0.092880" Type="automix" Point="fadeStart" />
-  <Poi Pos="178.143492" Type="automix" Point="fadeEnd" />
-  <Poi Pos="38.632200" Type="automix" Point="cutStart" />
-  <Poi Pos="174.442086" Type="automix" Point="cutEnd" />
-  <Poi Pos="40.717370" Type="automix" Point="tempoStart" />
-  <Poi Pos="158.686395" Type="automix" Point="tempoEnd" />
-  <Poi Name="Break 1" Pos="113.423673" Type="remix" />
- </Song>              
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
  <Song FilePath="C:\DJ Drive\Music\Phoenix - If I Ever Feel Better.mp3" FileSize="9249167">
   <Tags Author="Phoenix" Title="If I Ever Feel Better (Edit)" Genre="House" Album="If I Ever Feel Better (VISA8510)" Label="Source" TrackNumber="01" Year="2000" Flag="1" />
   <Infos SongLength="224.001066" FirstSeen="1529196348" Bitrate="320" Cover="1" />
@@ -3522,21 +3623,7 @@
   <Poi Pos="169.322086" Type="automix" Point="cutEnd" />
   <Poi Pos="39.076939" Type="automix" Point="tempoStart" />
   <Poi Name="Break 1" Pos="73.967166" Type="remix" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
- <Song FilePath="C:\DJ Drive\Music\Taylor Swift - We are Never Ever Getting Back Together.mp3" FileSize="7732959">
-  <Tags Author="Taylor Swift" Title="We Are Never Ever Getting Back Together" Genre="Country &amp; Folk" Album="Red" TrackNumber="8/16" Year="2012" Flag="1" />
-  <Infos SongLength="193.186667" FirstSeen="1529196348" Bitrate="320" Cover="24578" />
-  <Scan Version="800" Bpm="0.697687" AltBpm="0.523265" Volume="1.157739" Key="G" />
-  <Poi Pos="5.856032" Type="beatgrid" />
-  <Poi Pos="0.274286" Type="automix" Point="realStart" />
-  <Poi Pos="190.820136" Type="automix" Point="realEnd" />
-  <Poi Pos="5.851429" Type="automix" Point="fadeStart" />
-  <Poi Pos="190.403628" Type="automix" Point="fadeEnd" />
-  <Poi Pos="5.847800" Type="automix" Point="cutStart" />
-  <Poi Pos="188.986485" Type="automix" Point="cutEnd" />
-  <Poi Pos="6.553741" Type="automix" Point="tempoStart" />
-  <Poi Pos="167.019909" Type="automix" Point="tempoEnd" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
  <Song FilePath="C:\DJ Drive\Music\Walk The Moon - Shut Up And Dance.mp3" FileSize="6435834">
   <Tags Author="Walk The Moon" Title="Shut Up and Dance" Genre="Contemporary" Album="Living In A Camp" TrackNumber="13" Year="2014" Flag="1" />
   <Infos SongLength="197.764354" FirstSeen="1529196348" Bitrate="256" Cover="1" />
@@ -3698,8 +3785,8 @@
   <Poi Name="Break 2" Pos="127.580590" Type="remix" />
   <Poi Name="End Break 2" Pos="145.134875" Type="remix" />
  </Song>  
- <Song FilePath="C:\DJ Drive\Music\Beyoncé - Run the World (Girls).mp3" FileSize="9652478">
-  <Tags Author="Beyoncé" Title="Run the World (Girls)" Genre="Pop" Album="4" Composer="Terius Nash, Beyoncé Knowles, Wesley Pentz, David Taylor, Adidja Palmer &amp; Nick van de Wall" TrackNumber="11/14" Year="2013" Bpm="0.472441" Key="Cm" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Beyonc? - Run the World (Girls).mp3" FileSize="9652478">
+  <Tags Author="Beyonc?" Title="Run the World (Girls)" Genre="Pop" Album="4" Composer="Terius Nash, Beyonc? Knowles, Wesley Pentz, David Taylor, Adidja Palmer &amp; Nick van de Wall" TrackNumber="11/14" Year="2013" Bpm="0.472441" Key="Cm" Flag="1" />
   <Infos SongLength="238.305283" FirstSeen="1528415084" Bitrate="320" Cover="1" />
   <Comment>2</Comment>
   <Scan Version="800" Bpm="0.472438" AltBpm="0.708662" Volume="1.223519" Key="G#" />
@@ -4117,7 +4204,7 @@
  </Song>
  <Song FilePath="C:\DJ Drive\Music\Sia - Cheap Thrills (feat. Sean Paul).mp3" FileSize="9465125">
   <Tags Author="Sia" Title="Cheap Thrills (feat. Sean Paul)" Genre="www.FullGaana.Com" Album="English Single Tracks-www.FullGaana.Com" Composer="www.FullGaana.Com" Label="www.FullGaana.Com" Remix="FullGaana.Com" Year="2016" Bpm="0.666667" Flag="1" />
-  <Infos SongLength="224.862041" FirstSeen="1528415084" FirstPlay="1528415680" LastPlay="1529445748" PlayCount="3" Bitrate="320" Cover="24577" />
+  <Infos SongLength="224.862041" FirstSeen="1528415084" FirstPlay="1528415680" LastPlay="1529603010" PlayCount="4" Bitrate="320" Cover="24577" />
   <Comment>2</Comment>
   <Scan Version="800" Bpm="0.666667" AltBpm="0.500000" Volume="1.200815" Key="Em" />
   <Poi Name="Cue 1" Pos="1.406000" Num="1" />
@@ -6109,25 +6196,7 @@
   <Poi Pos="209.294580" Type="automix" Point="tempoEnd" />
   <Poi Name="Break 1" Pos="74.951837" Type="remix" />
   <Poi Name="End Break 1" Pos="105.702313" Type="remix" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
- <Song FilePath="C:\DJ Drive\Music\Flo Rida - Good Feeling.mp3" FileSize="10064841">
-  <Tags Author="Flo Rida" Title="Good Feeling" Genre="Dance" Album="Wild Ones" TrackNumber="04/09" Year="2012" Flag="1" />
-  <Infos SongLength="248.133333" FirstSeen="1529274464" Bitrate="320" Cover="1" />
-  <Scan Version="800" Bpm="0.468753" AltBpm="0.351565" Volume="1.331581" Key="C#m" />
-  <Poi Pos="7.670839" Type="beatgrid" />
-  <Poi Pos="0.171247" Type="automix" Point="realStart" />
-  <Poi Pos="245.373968" Type="automix" Point="realEnd" />
-  <Poi Pos="0.185760" Type="automix" Point="fadeStart" />
-  <Poi Pos="244.366803" Type="automix" Point="fadeEnd" />
-  <Poi Pos="7.648073" Type="automix" Point="cutStart" />
-  <Poi Pos="243.424218" Type="automix" Point="cutEnd" />
-  <Poi Pos="37.670522" Type="automix" Point="tempoStart" />
-  <Poi Pos="227.983084" Type="automix" Point="tempoEnd" />
-  <Poi Name="Break 1" Pos="67.205079" Type="remix" />
-  <Poi Name="End Break 1" Pos="101.427664" Type="remix" />
-  <Poi Name="Break 2" Pos="132.829751" Type="remix" />
-  <Poi Name="End Break 2" Pos="153.916372" Type="remix" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
  <Song FilePath="C:\DJ Drive\Music\Flo Rida feat. Sage The Gemini &amp; Lookas - GDFR.mp3" FileSize="7738728">
   <Tags Author="Flo Rida feat. Sage The Gemini &amp; Lookas" Title="GDFR" Genre="Other" Album="Now Thats What I Call Party Anthems" TrackNumber="19" Year="2015" Bpm="0.821918" Key="Gm" Flag="1" />
   <Infos SongLength="190.302041" FirstSeen="1529274678" Bitrate="320" Cover="1" />
@@ -6526,29 +6595,7 @@
   <Poi Pos="7.327347" Type="automix" Point="cutStart" />
   <Poi Pos="201.416417" Type="automix" Point="cutEnd" />
   <Poi Pos="41.859002" Type="automix" Point="tempoStart" />
- </Song>
- <Song FilePath="C:\DJ Drive\Music\Kungs &amp; Cookin&apos; on 3 Burners - This Girl.mp3" FileSize="8233231">
-  <Tags Author="Kungs &amp; Cookin&apos; on 3 Burners" Title="This Girl" Genre="??????" Album="NOW That&apos;s What I Call Party Hits" Composer="www.MP3DDL.com" TrackNumber="17" Year="2016" Bpm="0.491803" Key="Cm" Flag="1" />
-  <Infos SongLength="197.519637" FirstSeen="1529274678" Bitrate="320" Cover="1" />
-  <Comment>2</Comment>
-  <Scan Version="800" Bpm="0.491803" AltBpm="0.368855" Volume="0.968134" Key="Eb" />
-  <Poi Name="Cue 1" Pos="0.787000" Num="1" />
-  <Poi Pos="6.652109" Type="beatgrid" />
-  <Poi Pos="0.745333" Type="automix" Point="realStart" />
-  <Poi Pos="194.161333" Type="automix" Point="realEnd" />
-  <Poi Pos="0.743039" Type="automix" Point="fadeStart" />
-  <Poi Pos="193.282902" Type="automix" Point="fadeEnd" />
-  <Poi Pos="8.615329" Type="automix" Point="cutStart" />
-  <Poi Pos="189.106939" Type="automix" Point="cutEnd" />
-  <Poi Pos="63.703900" Type="automix" Point="tempoStart" />
-  <Poi Pos="173.864376" Type="automix" Point="tempoEnd" />
-  <Poi Name="Break 1" Pos="35.671655" Type="remix" />
-  <Poi Name="End Break 1" Pos="55.833107" Type="remix" />
-  <Poi Name="Break 2" Pos="85.828209" Type="remix" />
-  <Poi Name="End Break 2" Pos="110.920272" Type="remix" />
-  <Poi Name="Break 3" Pos="122.229116" Type="remix" />
-  <Poi Name="End Break 3" Pos="154.187029" Type="remix" />
- </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
  <Song FilePath="C:\DJ Drive\Music\Lady GaGa - Bad Romance.mp3" FileSize="10696656">
   <Tags Author="Lady GaGa" Title="Bad Romance" Genre="Pop, Electro-Pop, Dance" Album="Bad Romance (CDS UK)" TrackNumber="1" Year="2009" Bpm="0.504202" Key="Am" Flag="1" />
   <Infos SongLength="261.626667" FirstSeen="1529274678" Bitrate="320" Cover="1" />
@@ -6677,8 +6724,8 @@
   <Poi Pos="20.241995" Type="automix" Point="cutStart" />
   <Poi Pos="192.385306" Type="automix" Point="cutEnd" />
  </Song>
- <Song FilePath="C:\DJ Drive\Music\Major Lazer - Cold Water (feat. Justin Bieber &amp; MØ) (Original Mix).mp3" FileSize="7450945">
-  <Tags Author="Major Lazer" Title="Cold Water (feat. Justin Bieber &amp; MØ) (Original Mix)" Genre="Dancehall" Album="Cold Water (feat. Justin Bieber &amp; MØ)" Label="Mad Decent / Because Music" TrackNumber="01" Grouping="Mad Decent / Because Music" Year="2016" Bpm="0.645161" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Major Lazer - Cold Water (feat. Justin Bieber &amp; M?) (Original Mix).mp3" FileSize="7450945">
+  <Tags Author="Major Lazer" Title="Cold Water (feat. Justin Bieber &amp; M?) (Original Mix)" Genre="Dancehall" Album="Cold Water (feat. Justin Bieber &amp; M?)" Label="Mad Decent / Because Music" TrackNumber="01" Grouping="Mad Decent / Because Music" Year="2016" Bpm="0.645161" Flag="1" />
   <Infos SongLength="185.411338" FirstSeen="1529274464" Bitrate="320" Cover="1" />
   <Comment>(myzuka.fm)</Comment>
   <Scan Version="800" Bpm="0.645170" AltBpm="0.967755" Volume="1.227496" Key="F#m" />
@@ -6877,8 +6924,8 @@
   <Poi Name="Break 1" Pos="42.490340" Type="remix" />
   <Poi Name="End Break 1" Pos="64.330884" Type="remix" />
  </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
- <Song FilePath="C:\DJ Drive\Music\Pink - What About Us (Tiësto&apos;s AFTR-HRS Remix).mp3" FileSize="9763374">
-  <Tags Author="Pink" Title="What About Us (Tiësto&apos;s AFTR-HRS Remix)" Genre="Pop, House, Dance" Album="Kiss FM: Top 100 2017 - ???????? (2018)" TrackNumber="92" Year="2018" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Pink - What About Us (Ti?sto&apos;s AFTR-HRS Remix).mp3" FileSize="9763374">
+  <Tags Author="Pink" Title="What About Us (Ti?sto&apos;s AFTR-HRS Remix)" Genre="Pop, House, Dance" Album="Kiss FM: Top 100 2017 - ???????? (2018)" TrackNumber="92" Year="2018" Flag="1" />
   <Infos SongLength="242.000000" FirstSeen="1529274464" Bitrate="320" Cover="1" />
   <Comment>(myzuka.me)</Comment>
   <Scan Version="800" Bpm="0.499977" AltBpm="0.374989" Volume="1.335884" Key="Fm" />
@@ -7396,8 +7443,8 @@
   <Poi Name="Break 1" Pos="160.107392" Type="remix" />
   <Poi Name="End Break 1" Pos="180.919728" Type="remix" />
  </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
- <Song FilePath="C:\DJ Drive\Music\Tiësto &amp; KSHMR - Secrets (feat. Vassy).mp3" FileSize="10162583">
-  <Tags Author="Tiësto &amp; KSHMR" Title="Secrets (feat. Vassy)" Genre="House" Album="Club Life Vol.4: New York City" TrackNumber="2/18" Year="2015" Bpm="0.465116" Flag="1" />
+ <Song FilePath="C:\DJ Drive\Music\Ti?sto &amp; KSHMR - Secrets (feat. Vassy).mp3" FileSize="10162583">
+  <Tags Author="Ti?sto &amp; KSHMR" Title="Secrets (feat. Vassy)" Genre="House" Album="Club Life Vol.4: New York City" TrackNumber="2/18" Year="2015" Bpm="0.465116" Flag="1" />
   <Infos SongLength="251.010612" FirstSeen="1529274678" Bitrate="320" Cover="1" />
   <Comment>2</Comment>
   <Scan Version="800" Bpm="0.468152" AltBpm="0.351111" Volume="1.076158" Key="Em" />
